@@ -130,6 +130,6 @@
                 <g id="Body" transform="translate(28.800000, 32.400000)">
                     <mask id="mask-6" fill="white">
                         <use xlink:href="#path-5"></use>
-                 
+         </mask>        
     </g>
 </svg>
